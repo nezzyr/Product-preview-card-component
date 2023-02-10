@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(244, 236, 228);
+}
+.square{ 
+  margin: 0 auto;
+  background-color: #ffffffbd;
+  width: 500px;
+  height: 400px;
+border-radius: 2%;
+position: relative;
+}
+.click{ 
+    margin-left: 285px;
+    background-color: #397045bd;
+    color: white;
+    width: 190px;
+    height: 30px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 30px;
+  position: absolute;
+  top: 340px;
+  left:1px;
+  font-style: normal;
+  }
+  h1 { color: rgb(78, 76, 76)    ;
+text-align: left;
+position: absolute;
+bottom: 310px;
+font-weight: normal;
+font-style: unset;
+font-stretch: ultra-expanded;
+font-size: smaller;
+}
+h2{ text-align: left;
+    position: absolute;
+    bottom: 190px;
+    font-weight: bolder;
+    font-style: unset;
+    font-stretch: ultra-expanded;
+    font-size: smaller;
+
+}
+p { 
+    color: black;
+    position: absolute;
+    bottom: 110px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+}
